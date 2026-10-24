@@ -1,3 +1,7 @@
 # n3gdobis
 
-Магазин
+Магазин обуви
+
+Альбертовича Богдана
+
+MySql workbench C# Visual code
